@@ -1,0 +1,15 @@
+body {
+    margin: 80px;
+    text-align: center;
+}
+
+.loginbutton {
+  background-color: #ff5050; /* Green */
+    border: none ;
+    color: white;
+    padding: 10px 15px 10px 15px
+
+}
+.loginbutton {
+  border-radius: 10%
+}
